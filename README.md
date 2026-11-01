@@ -1,5 +1,7 @@
 # Tap Storm
 
+**Live page:** https://liuyiqun7.github.io/tap-storm/
+
 **Idea.** A small interactive experience: tap the `A` key as fast as you like.
 The faster you tap, the bigger the particle storm on screen. It turns one key
 into a speed you can see.
@@ -30,8 +32,7 @@ not jitter. Stop tapping for 1.5 seconds and the rate falls back to zero.
 
 Browser project. Two options:
 
-1. **Live page** — open the GitHub Pages URL for this repository (see the link at
-   the top of this repo) and press `A`.
+1. **Live page** — open https://liuyiqun7.github.io/tap-storm/ and press `A`.
 2. **Local** — from this folder, serve the files and open the page:
 
    ```bash
